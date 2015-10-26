@@ -1,0 +1,36 @@
+h1{color:blue}
+h2{font-size:14px}
+p#color{text-align:left;text-decoration:underline overline line-through;
+	word-spacing:0;font-size:12px;color:yellow;background-color:black}
+	p.indent{text-align: center;word-spacing:-1;}
+p#line{text-transform:uppercase;text-align: right;white-space:pre;line-height: 2}
+p.font{font:serif 14px bold;}
+img{border-width:2px;border-color:red}
+#zhong{background:red;width:960px;height:10px;margin:auto;}
+#zhong2{background:blue;width:960px;height:10px;display:flex;display: -webkit-flex;
+-webkit-align-items:center;align-items:center;}
+#float{background-color: red;float:left;width:200px;height:200px;}
+#right{background-color: blue;margin-left:200px;height:200px;}
+#footer{background-color: yellow;height:200px;}
+#float2{background-color: red;float:left; width:100%;height:200px;padding-left:200px;}
+#right2{background-color: blue;float:left;width:200px;margin-left:-100%; height:200px;display:relative;}
+#footer2{background-color: yellow;height:200px;}
+#float3{background-color: red;float:left;width:200px;height:200px;}
+#right3{background-color: blue;float:right;width:200px;height:200px;}
+#footer3{background-color: yellow;height:200px;margin:0px 200px;}
+#float4{float:left;width:100%;height:200px;background-color: red}
+#right4{background-color: blue;float:left;margin-left:-100%; width:200px;height:200px;}
+#footer4{background-color: yellow;float:left;width:200px; height:200px;margin-left:-200px;}
+#main{margin:0px 210px;word-break:break-all;}
+#blue{background-color:blue ;}
+.red{background-color: red;float:left;margin:10px;width:200px;height:200px;}
+#blue:after{content: "hhhhhhhhhh";display:block; height:10px;visibility: hidden; clear:both;}
+#mid{height:50px;background-color:white;border-left:1px solid black;border-right:1px solid black;}
+.rtop{display:block;}
+.rtop div{display:block;height:1px;overflow:hidden;}
+.r1{margin:0px 3px;background:black;}
+.r2{margin:0px 2px;border-left:1px solid black;border-right:1px solid black;}
+.r3{margin:0px 1px;border-left:1px solid black;border-right:1px solid black;}
+.r4{margin:0px 1px;border-left:1px solid black;border-right:1px solid black;}
+#div1{float: left;position: relative;left:60px;height: 50px;width: 50px;background-color: #c0c}
+#div2{float: left;width: 50px;height: 50px;background-color: #000}
